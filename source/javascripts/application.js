@@ -1,0 +1,7 @@
+// = require 'jquery'
+// = require 'jquery-ui'
+// = require 'velocity'
+// = require 'clock'
+// = require 'info-box'
+// = require 'key'
+// = require 'generate'
